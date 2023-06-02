@@ -1,1 +1,2 @@
-# Automated-Writing-Evaluation-Using-Sentence-by-Sentence-Scoring-Model
+# This project includes the dataset for the paper Automated Writing Evaluation Using Sentence by Sentence Scoring Model to evaluate essay. Detailed informatin except "marks" attribute, please refers to the main paper Discourse Self-Attention for Discourse Element Identification in Argumentative Student Essays.
+## In "marks" attribute we add sentence by sentence mark with the help of an english expart.
